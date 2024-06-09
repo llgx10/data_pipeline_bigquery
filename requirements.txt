@@ -1,0 +1,16 @@
+pandas
+requests
+google-cloud-bigquery
+psycopg2
+aiohttp
+tqdm
+pygsheets
+gspread
+google-cloud-storage
+pyarrow
+google-auth  
+google-auth-oauthlib
+google-auth-httplib2
+pytz
+pyyaml
+python-dotenv

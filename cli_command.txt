@@ -1,0 +1,8 @@
+python main.py hubspot_contacts_to_bigquery --hubspotcreds gitlab_ci\hubspot\hubspotcrentials_ci.json  --googlecreds gitlab_ci\google\bizzi-home-creds.json --redashcreds gitlab_ci\redash\redash_credential_ci.json
+
+python main.py hubspot_deals_to_bigquery --hubspotcreds gitlab_ci\hubspot\hubspotcrentials_ci.json  --googlecreds gitlab_ci\google\bizzi-home-creds.json --redashcreds gitlab_ci\redash\redash_credential_ci.json
+
+
+python main.py hubspot_engagement_to_bigquery  --hubspotcreds gitlab_ci\hubspot\hubspotcrentials_ci.json  --googlecreds gitlab_ci\google\bizzi-home-creds.json --redashcreds gitlab_ci\redash\redash_credential_ci.json --engagement emails
+
+python main.py mautic_mail_log_to_bigquery  --mauticcreds gitlab_ci\mautic\mautic_credntial_ci.json  --googlecreds gitlab_ci\google\bizzi-home-creds.json --redashcreds gitlab_ci\redash\redash_credential_ci.json  
