@@ -1,6 +1,6 @@
 # Bizzi BI Hubspot-> BigQuery
 
-This respository is a CI pipeline to replicate data from Bizzi Hubspot to BigQuery (Bizzi-home GCP Project), provide an efficient way to write reports and make actions
+This respository is a CI pipeline to replicate data from Hubspot to BigQuery, provide an efficient way to write reports and make actions
 <h2>ETL Process
 
 ![ETL diagram](https://github.com/llgx10/data_pipeline_bigquery/blob/develop/stack.jpg?ref_type=heads)
