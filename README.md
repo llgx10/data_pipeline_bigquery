@@ -1,4 +1,4 @@
-# Bizzi BI Hubspot-> BigQuery
+#  Hubspot-> BigQuery
 
 This respository is a CI pipeline to replicate data from Hubspot to BigQuery, provide an efficient way to write reports and make actions
 <h2>ETL Process
